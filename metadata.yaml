@@ -1,0 +1,26 @@
+_repo: Punch-or-the-London-Charivari-Volume-100-January-31-1891_13067
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_bookshelf: Punch
+gutenberg_issued: '2004-07-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13067'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English wit and humor -- Periodicals'
+- !lcc 'AP'
+title: Punch, or the London Charivari, Volume 100, January 31, 1891
+url: http://www.gutenberg.org/ebooks/13067
